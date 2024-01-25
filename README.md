@@ -1,6 +1,6 @@
 # Коды с занятий в МАИ
 
-` ebanyj puthon ya ego v rot ebal, pishite na normalnyh yazykah a ne na eton skratche suka ` (c) Ebanat 
+`ebanyj puthon ya ego v rot ebal, pishite na normalnyh yazykah a ne na eton skratche suka` (c) Ebanat 
 
 ---
 
