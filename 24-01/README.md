@@ -1,6 +1,6 @@
 # Занятие от 24-го числа 
 
-` kakie-to chisla, stroki, kakaya to huynua blyad. mne oni voobshe neinteresny`
+`kakie-to chisla, stroki, kakaya to huynua blyad. mne oni voobshe neinteresny` (c) Oleg Tinkov
 
 ---
 
